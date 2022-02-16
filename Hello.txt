@@ -1,1 +1,3 @@
 # buat file hello txt
+hal yang berbeda
+dan lain lain
